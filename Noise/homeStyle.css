@@ -1,0 +1,21 @@
+body {
+    font-size: 18px !important;
+    width: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: black;
+
+}
+
+.logo {
+    width: 100px;
+}
+
+/* .nav-header {
+    width: 100vh !important;
+} */
