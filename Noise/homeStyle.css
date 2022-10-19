@@ -1,21 +1,105 @@
-body {
-    font-size: 18px !important;
-    width: 100vh;
-}
 *{
     margin: 0;
     padding: 0;
 }
 
+body {
+    font-size: 16px !important;
+}
+
 .header {
     background-color: black;
-
+    height: 70px;
 }
 
 .logo {
-    width: 100px;
+    width: 90px;
 }
 
-/* .nav-header {
-    width: 100vh !important;
+.bg-buds {
+    background: rgb(250, 234, 233);
+    border-radius: 15px;
+    padding: 50px 0;
+    height: 350px;
+    
+}
+
+.bg-watch {
+    background: rgb(247, 246, 215);
+    border-radius: 15px;
+    padding: 50px 0;
+    height: 350px;
+}
+
+.bg-earphones {
+    background:rgb(238, 238, 249);
+    border-radius: 15px;
+    padding: 50px 0;
+    height: 350px;    
+}
+
+.bg-headphones {
+    background: rgb(253, 244, 234);
+    border-radius: 15px;
+    padding: 50px 0;
+    height: 350px;    
+}
+
+.bg-accessories {
+    background: rgb(230, 243, 224);
+    border-radius: 15px;
+    padding: 50px 0;
+    height: 350px;    
+}
+
+.text {
+    color: black;
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+    width: 10rem;
+}
+
+/* a:hover {
+    text-decoration: none;
 } */
+
+.top-space {
+    margin-top: 6rem;
+}
+
+.card {
+    width: 15rem !important;
+}
+
+.card-img {
+    display: block;
+    margin: 0 auto;
+    width: 8rem !important;
+
+}
+.product-price {
+    color: #505af0;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px !important;
+}
+
+.card-title {
+    color: #383838;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.new {
+    color: #ff8d2e;
+    font-weight: 500;
+    font-size: 12px;
+    
+}
+
+.marg-top {
+    margin-top: 6rem;
+}
